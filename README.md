@@ -46,7 +46,7 @@ cppnetloader.exe 192.168.1.1 5555
 
 # other
 
-[C++ ShellCode 加载器](https://exp10it.cn/#/posts/64)
+[C++ ShellCode 加载器](https://exp10it.cn/2019/08/c-shellcode-%E5%8A%A0%E8%BD%BD%E5%99%A8/)
 
 编码/加密方式可自行发挥.
 
